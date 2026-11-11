@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kimmmyrobot.github.io/idaho-crash-documentation-955881934/sitemap.xml
